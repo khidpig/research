@@ -1,0 +1,8 @@
+PUBLIC REPOSITORY in GitHub.
+Anybody can see it. (in google)
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/khidpig/research.git
+git push -u origin master
